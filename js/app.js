@@ -29,11 +29,7 @@ $(function(){
 
 // Typed js
 var typed = new Typed('.animat', {
-  strings: [
-    '<i>Creative Web Developer .</i>  ',
-    '<i>Creative Software Engneer .</i>  ',
-    '<i>Creative Designer .</i>  ',
-  ],
+  strings: ['We are a digital & branding agency based in London  ' ],
   typeSpeed: 50,
   backSpeed: 50,
   loop:true,
